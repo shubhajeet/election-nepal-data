@@ -1,0 +1,12 @@
+# Election Result of 1st phase local election 
+Source: [election.gov.np](http://election.got.np:90)
+ - [PartyLeadTrail.csv](PartyLeadTrail.csv)
+ - [TopFivePartyPostWiseChairPerson.csv](TopFivePartyPostWiseChairPerson.csv)
+ - [TopFivePartyPostWiseDalitWomenMem.csv](TopFivePartyPostWiseDalitWomenMem.csv)
+ - [TopFivePartyPostWiseDeputyChairPerson.csv](TopFivePartyPostWiseDeputyChairPerson.csv)
+ - [TopFivePartyPostWiseDeputyMayor.csv](TopFivePartyPostWiseDeputyMayor.csv)
+ - [TopFivePartyPostWiseMember.csv](TopFivePartyPostWiseMember.csv)
+ - [TopFivePartyPostWiseWardChairPerson.csv](TopFivePartyPostWiseWardChairPerson.csv)
+ - [TopFivePartyPostWiseWomenMem.csv](TopFivePartyPostWiseWomenMem.csv)
+ - [TopFivePartyWiseMayor.csv](TopFivePartyWiseMayor.csv)
+ - [VoteCount.csv](VoteCount.csv)
